@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="docs/assets/logo.svg" width="96" alt="广告投放平台 Logo" />
   <h1>广告投放平台</h1>
   <h3>面向广告主与运营的互联网广告投放平台</h3>
   <p>从广告创建、审核、投放到数据统计的一站式管理</p>
@@ -12,12 +11,6 @@
   <img src="https://img.shields.io/github/last-commit/Yang-root/ad_platform?style=flat-square&logo=git&label=Last%20commit" alt="last commit" />
   <img src="https://img.shields.io/badge/stage-实验三-2EA44F?style=flat-square" alt="stage" />
   <img src="https://img.shields.io/badge/branch-main%20%7C%20develop-8250DF?style=flat-square&logo=git" alt="branches" />
-</p>
-
-<p align="center">
-  <img src="docs/assets/card-acceptance.svg" width="320" alt="实验三验收：四件套齐全，联调通过" />
-  &nbsp;
-  <img src="docs/assets/card-baseline.svg" width="320" alt="代码基线：BL-E3-01，提交 6324f72" />
 </p>
 
 <p align="center">
