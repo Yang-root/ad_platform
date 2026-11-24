@@ -21,8 +21,6 @@
   <a href="#文档">文档</a>
 </p>
 
-> 当前阶段为实验三工程骨架，只包含可运行的开发环境与联调探针接口，业务功能从实验四开始开发。
-
 ## 快速开始
 
 **环境要求**：Python 3.13、Node.js 24、MySQL 8.0；后端依赖 Django 5.0、Django REST Framework 3.15、django-cors-headers、PyMySQL、python-dotenv。
