@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-v0.1.0-6E7781?style=flat-square" alt="version" />
-  <img src="https://img.shields.io/badge/license-课程作业-0969DA?style=flat-square" alt="license" />
+  <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square" alt="license" />
   <img src="https://img.shields.io/github/stars/Yang-root/ad_platform?style=flat-square&logo=github&label=Stars" alt="stars" />
-  <img src="https://img.shields.io/github/last-commit/Yang-root/ad_platform?style=flat-square&logo=git&label=Last%20commit" alt="last commit" />
-  <img src="https://img.shields.io/badge/stage-实验三-2EA44F?style=flat-square" alt="stage" />
+  <img src="https://img.shields.io/badge/Last%20commit-2026.11.24-6E7781?style=flat-square&logo=git" alt="last commit" />
+  <img src="https://img.shields.io/badge/语言-Python%20%7C%20JavaScript-3776AB?style=flat-square&logo=python&logoColor=white" alt="languages" />
   <img src="https://img.shields.io/badge/branch-main%20%7C%20develop-8250DF?style=flat-square&logo=git" alt="branches" />
 </p>
 
